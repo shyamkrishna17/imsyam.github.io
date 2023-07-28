@@ -181,11 +181,11 @@ footer {
 
 
 .btn-block {
-  /* Custom button width and height */
+  
   width: 200px;
   height: 50px;
-  /* Additional custom styling (optional) */
+  
   font-size: 20px;
   border-radius: 10px;
-  margin: 10px auto; /* Center the button horizontally */
+  margin: 10px auto; 
 }
